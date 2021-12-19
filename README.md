@@ -1,7 +1,7 @@
+# ssl-server-student
 ## Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 The client was Artemis Financial, a financial consulting company that developed individualized financial plans for savings, retirement, investments, and insurance for their patrons.  Artemis Financial desired to implement and apply the most current and effective software security.  Namely, they wanted to add a file verification step to their web application to ensure secure communications.
 
-# ssl-server-student
 ## What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 I took a step-by-step approach to identify the software security vulnerabilities.  It is important to code securely to maintain the integrity of customers' data and keep their trust.  Software security helps to save money and protect the brand of a company.
 
